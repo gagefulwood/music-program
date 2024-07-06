@@ -1,5 +1,5 @@
-from Python.Music.Composer.model import ChordModel
-from Python.Music.Composer.view import ChordView
+from model import ChordModel
+from view import ChordView
 
 class ChordController:
     def __init__(self):
